@@ -1,0 +1,1 @@
+The aim of the assignment is to create a library website that allows the user to reserve, unreserve, and search for books using PHP and MySQL database. It also allows the user to create an account and log into the account. 
